@@ -2,7 +2,7 @@
 
 # [StephanMcTighe.com](https://stephanmctighe.com)
 
-Welcome to the home of GitHub repositories for stephanmctighe.com containing any content created for my blog:
+Welcome to the GitHub repositories for stephanmctighe.com containing any content created for my blog:
 
 * Blog code references
 * Code snippets
