@@ -1,4 +1,5 @@
-<img width="711" alt="main-logo-banner" src="https://user-images.githubusercontent.com/65562694/202736077-00a4edec-2afb-4439-93c9-9213e2eeba31.png">
+<img width="711" alt="main-logo-banner" src="https://user-images.githubusercontent.com/65562694/202756466-c86fd29f-fc11-4467-8747-97cc257f2666.png">
+
 
 # [StephanMcTighe.com](https://stephanmctighe.com)
 
